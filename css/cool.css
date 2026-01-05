@@ -110,3 +110,14 @@ button,
     width: 100%;
   }
 }
+/* 修正漢堡選單變超長的問題 */
+.navbar-toggler {
+  width: auto;
+  padding: 0.25rem 0.75rem;
+}
+
+.navbar-toggler-icon {
+  width: 1.5em;
+  height: 1.5em;
+}
+
