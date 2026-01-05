@@ -1,0 +1,54 @@
+/* 全域設定 */
+body {
+    background-color: #f8f9fa; /* 淺灰背景 */
+    font-family: "Microsoft JhengHei", sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* 導覽列 */
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* 主容器 */
+.container {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+/* 標題 */
+h1, h2, h5 {
+    color: #212529;
+}
+
+/* 列表美化 */
+ul.list-group li {
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+/* 導覽列連結 */
+.nav-link.active {
+    font-weight: bold;
+}
+
+/* 手機版導覽列按鈕 */
+.navbar-toggler {
+    border-color: rgba(255,255,255,0.2);
+}
+
+/* 段落間距 */
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* 小標題間距 */
+h5 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
